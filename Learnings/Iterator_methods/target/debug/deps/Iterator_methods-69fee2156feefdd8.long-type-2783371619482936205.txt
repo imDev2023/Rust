@@ -1,0 +1,2 @@
+Skip<Map<Map<core::slice::iter::Iter<'_, &str>, {closure@src/iterators1.rs:27:47: 27:50}>, {closure@src/iterators1.rs:29:5: 29:12}>>
+Skip<Map<Map<std::slice::Iter<'_, &str>, {closure@src/iterators1.rs:27:47: 27:50}>, {closure@src/iterators1.rs:29:5: 29:12}>>

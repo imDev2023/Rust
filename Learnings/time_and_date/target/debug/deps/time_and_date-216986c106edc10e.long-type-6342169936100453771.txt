@@ -1,0 +1,2 @@
+Zip<Map<core::slice::iter::Iter<'_, &str>, {closure@src/mydatetime.rs:14:10: 14:13}>, Map<core::slice::iter::Iter<'_, &str>, {closure@src/mydatetime.rs:19:37: 19:40}>>
+Zip<Map<std::slice::Iter<'_, &str>, {closure@src/mydatetime.rs:14:10: 14:13}>, Map<std::slice::Iter<'_, &str>, {closure@src/mydatetime.rs:19:37: 19:40}>>

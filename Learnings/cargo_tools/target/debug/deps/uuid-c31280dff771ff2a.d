@@ -1,0 +1,13 @@
+/Volumes/Farhan/Work Folder/Dev/RUST/Rust/Learnings/cargo_tools/target/debug/deps/libuuid-c31280dff771ff2a.rmeta: /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/lib.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/builder.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/error.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/non_nil.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/parser.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/fmt.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/timestamp.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/external.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/macros.rs
+
+/Volumes/Farhan/Work Folder/Dev/RUST/Rust/Learnings/cargo_tools/target/debug/deps/uuid-c31280dff771ff2a.d: /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/lib.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/builder.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/error.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/non_nil.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/parser.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/fmt.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/timestamp.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/external.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/macros.rs
+
+/Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/lib.rs:
+/Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/builder.rs:
+/Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/error.rs:
+/Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/non_nil.rs:
+/Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/parser.rs:
+/Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/fmt.rs:
+/Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/timestamp.rs:
+/Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/external.rs:
+/Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/macros.rs:

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Rust to Browser</title>
+</head>
+<body>
+    <script type="module">
+        import init, { show_message } from "./pkg/hello_wasm.js";
+
+        init().then(() => {
+            show_message(); // Call the Rust function that manipulates the DOM
+        });
+    </script>
+</body>
+</html>

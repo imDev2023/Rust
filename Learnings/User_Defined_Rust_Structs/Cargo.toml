@@ -1,0 +1,6 @@
+[package]
+name = "User_Defined_Rust_Structs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
