@@ -1,0 +1,11 @@
+/Volumes/Farhan/Work Folder/Dev/RUST/Rust/mini-Projects/HTTP_Requests/target/debug/deps/libgetrandom-28710d0c1eb839ae.rmeta: /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.3/src/lib.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.3/src/backends.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.3/src/error.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.3/src/util.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.3/src/../README.md /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.3/src/backends/getentropy.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.3/src/backends/../util_libc.rs
+
+/Volumes/Farhan/Work Folder/Dev/RUST/Rust/mini-Projects/HTTP_Requests/target/debug/deps/getrandom-28710d0c1eb839ae.d: /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.3/src/lib.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.3/src/backends.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.3/src/error.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.3/src/util.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.3/src/../README.md /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.3/src/backends/getentropy.rs /Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.3/src/backends/../util_libc.rs
+
+/Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.3/src/lib.rs:
+/Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.3/src/backends.rs:
+/Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.3/src/error.rs:
+/Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.3/src/util.rs:
+/Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.3/src/../README.md:
+/Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.3/src/backends/getentropy.rs:
+/Users/fisd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.3.3/src/backends/../util_libc.rs:

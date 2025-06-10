@@ -1,0 +1,1 @@
+Zip<Map<std::slice::Iter<'_, &str>, {closure@src/iterators1.rs:45:42: 45:45}>, Map<std::slice::Iter<'_, &str>, {closure@src/iterators1.rs:48:44: 48:47}>>

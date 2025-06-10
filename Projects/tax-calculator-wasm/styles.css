@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif; /* Set font family */
+    background-color: #f7f7f7; /* Set background color */
+    color: #333; /* Set text color */
+    display: flex; /* Use flexbox layout */
+    flex-direction: column; /* Arrange elements in a column */
+    align-items: center; /* Center elements horizontally */
+    justify-content: center; /* Center elements vertically */
+    height: 100vh; /* Full viewport height */
+    margin: 0; /* Remove default margin */
+    }
+    h1 {
+    color: #d35400; /* Rust color for heading */
+    }
+    label, input, button {
+    margin: 10px 0; /* Margin for form elements */
+    }
+    input {
+        padding: 8px; /* Padding inside input */
+        font-size: 16px; /* Input font size */
+        border: 2px solid #d35400; /* Rust color border */
+        border-radius: 4px; /* Rounded corners */
+        }
+        button {
+        padding: 10px 20px; /* Padding inside button */
+        font-size: 16px; /* Button font size */
+        background-color: #e67e22; /* Orange color background */
+        color: #fff; /* White text color */
+        border: none; /* Remove border */
+        border-radius: 4px; /* Rounded corners */
+        cursor: pointer; /* Pointer cursor on hover */
+        transition: background-color 0.3s ease; /* Smooth backgro
+        color transition */
+        }
+        button:hover {
+            background-color: ☐ #d35400; /* Darker rust color on hover */
+            }
+        #result {
+            margin-top: 20px; /* Margin above result text */
+            font-size: 18px; /* Result text font size */
+            color: #e67e22; /* Orange color for result text */
+        }
+        
