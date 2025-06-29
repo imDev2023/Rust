@@ -1,0 +1,1 @@
+/Volumes/Farhan/Work\ Folder/Dev/RUST/Rust/Learnings/DSA_Questions/target/debug/DSA_Questions: /Volumes/Farhan/Work\ Folder/Dev/RUST/Rust/Learnings/DSA_Questions/src/is_palindrome.rs /Volumes/Farhan/Work\ Folder/Dev/RUST/Rust/Learnings/DSA_Questions/src/main.rs
