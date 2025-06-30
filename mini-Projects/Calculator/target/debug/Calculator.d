@@ -1,0 +1,1 @@
+/Volumes/Farhan/Work\ Folder/Dev/RUST/Rust/mini-Projects/Calculator/target/debug/Calculator: /Volumes/Farhan/Work\ Folder/Dev/RUST/Rust/mini-Projects/Calculator/src/calc_fn.rs /Volumes/Farhan/Work\ Folder/Dev/RUST/Rust/mini-Projects/Calculator/src/main.rs
